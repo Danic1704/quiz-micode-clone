@@ -100,10 +100,7 @@ clean ();
     app.appendChild(feedback);
 
   } 
-  
- 
-  
- 
+
   function createAnswer(answers) { 
     const answerDiv = document.createElement('div');
     answerDiv.classList.add("answers");
